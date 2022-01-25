@@ -34,6 +34,6 @@ Definitely NOT "We Don't Talk About Bruno" from Encanto.
 " target="_blank"><img src="http://img.youtube.com/vi/bvWRMAU6V-c/0.jpg" 
 alt="Definitely NOT 'We Don't Talk About Bruno'" width="240" height="180" border="10" /></a>
 
-![That's All Folks][logo]
+![That's All Folks][logo2]
 
-[logo]: https://user-images.githubusercontent.com/98352078/150993664-d0e0fd4c-429c-4643-b64d-278bf201ed70.jpg "That's All Folks!
+[logo2]: https://user-images.githubusercontent.com/98352078/150993664-d0e0fd4c-429c-4643-b64d-278bf201ed70.jpg "That's All Folks!
