@@ -34,6 +34,5 @@ Definitely NOT "We Don't Talk About Bruno" from Encanto.
 " target="_blank"><img src="http://img.youtube.com/vi/bvWRMAU6V-c/0.jpg" 
 alt="Definitely NOT 'We Don't Talk About Bruno'" width="240" height="180" border="10" /></a>
 
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
 2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
 3. Finally, turn in a link to your repository on Populi
